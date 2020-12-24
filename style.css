@@ -93,8 +93,17 @@ footer {
 
 .container-icone a {
   font-size: 200%;
+  margin: auto;
+  margin-right: 40px;
+  color: white;
+  text-decoration: none;
 }
 
 .container-icone a:hover {
+    
+    color: gray;
+    text-decoration: underline;
+    padding: 5px;
+    border-radius: 06px;
 
 }
