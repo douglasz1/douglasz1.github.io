@@ -82,13 +82,13 @@ section {
 }
 
 footer {
-    position: absolute;
-    width: 100%;
-    color: #fff;
-    line-height: 40px;
-    font-size: 0.9em;
-    text-align: center;
-    bottom:0;
+  position: absolute;
+  width: 100%;
+  color: #fff;
+  line-height: 40px;
+  font-size: 0.9em;
+  text-align: center;
+  bottom:0;
 }
 
 .container-icone a {
@@ -100,10 +100,8 @@ footer {
 }
 
 .container-icone a:hover {
-    
-    color: gray;
-    text-decoration: underline;
-    padding: 5px;
-    border-radius: 06px;
-
+  color: gray;
+  text-decoration: underline;
+  padding: 5px;
+  border-radius: 06px;
 }
